@@ -1,0 +1,6 @@
+timestamp,nome,idade,convenio,prioridade,motivo
+2026-11-02 11:31:26,Maria Teste,35,Unimed,3,Consulta de rotina
+2026-11-02 11:32:05,João Exempo,62,Particular,5,Dor no peito
+2026-11-02 11:32:44,Ana Modelo,28,Bradesco Saúde,2,Renovação de receita
+2026-11-02 11:33:17,Carlos Fictício,45,SulAmérica,2,Retorno Pós Cirurgia
+2026-11-02 11:33:51,Paula Demonstação,19,Outro,2,Atestado Médico
